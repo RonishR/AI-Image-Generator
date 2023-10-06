@@ -36,8 +36,8 @@ React Hot Toast has been integrated for real-time notifications about the image 
 - Azure Functions
 - DALL·E 2
 - chatGPT
-- Typescript
-- Javascript
+- TypeScript
+- JavaScript
 - Vercel
 - react-hot-toast
 
