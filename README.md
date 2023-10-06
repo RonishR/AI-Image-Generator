@@ -25,7 +25,7 @@ Azure Functions are employed to seamlessly connect with the DALL·E 2 API and Ch
 - **Vercel:**
 The project is hosted and deployed using Vercel, ensuring a high-performance and scalable web application accessible to users worldwide.
 
-- **react-hot-toast:**
+- **React-Hot-Toast:**
 React Hot Toast has been integrated for real-time notifications about the image generation process.
 
 ## Technologies Used
@@ -35,11 +35,11 @@ React Hot Toast has been integrated for real-time notifications about the image 
 - Azure Blob Storage
 - Azure Functions
 - DALL·E 2
-- chatGPT
+- ChatGPT
 - TypeScript
 - JavaScript
 - Vercel
-- react-hot-toast
+- React-Hot-Toast
 
 
 ## Getting Started
