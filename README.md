@@ -3,7 +3,7 @@ The **"AI Image Generator"** is a cutting-edge web application that combines the
 The website has the ability to store all the images that were generated. Every image produced by the AI is archived and showcased on the homepage, creating a captivating visual history of user interactions.
 \
 \
-[https://ai-image-generator-azure-five.vercel.app/]
+https://ai-image-generator-azure-five.vercel.app/
 
 
 <img width="1679" alt="Screenshot 2023-10-05 at 7 20 19 PM" src="https://github.com/RonishR/AI-Image-Generator/assets/69105829/10206b3a-8e1c-482c-9d85-a8b2c235860e">
