@@ -1,6 +1,9 @@
 # About
 The **"AI Image Generator"** is a cutting-edge web application that combines the power of **DALL·E 2, ChatGPT, Next.js, and Azure** to transform your textual prompts into stunning, one-of-a-kind images.
 The website has the ability to store all the images that were generated. Every image produced by the AI is archived and showcased on the homepage, creating a captivating visual history of user interactions.
+<br/>
+
+**Demo:** https://drive.google.com/file/d/17u2BFGOVyrToJStj1u-SHDSwFDaz7M4t/view?usp=sharing
 
 <img width="1679" alt="Screenshot 2023-10-05 at 7 20 19 PM" src="https://github.com/RonishR/AI-Image-Generator/assets/69105829/10206b3a-8e1c-482c-9d85-a8b2c235860e">
 
