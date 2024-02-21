@@ -1,5 +1,5 @@
 # About
-The **"AI Image Generator"** is a cutting-edge web application that combines the power of **DALL·E 2, ChatGPT, Next.js, and Azure** to transform your textual prompts into stunning, one-of-a-kind images.
+The **"AI Image Generator"** is a website that combines the power of **DALL·E 2, ChatGPT, Next.js, and Azure** to transform your textual prompts into stunning, one-of-a-kind images.
 The website has the ability to store all the images that were generated. Every image produced by the AI is archived and showcased on the homepage, creating a captivating visual history of user interactions.
 <br/>
 
